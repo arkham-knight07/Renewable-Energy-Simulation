@@ -36,8 +36,8 @@ You can deploy this app for free using platforms like Vercel, Netlify, or GitHub
 This project is licensed under the MIT License.
 ## Screenshots
 
-![Dashboard](screenshots/dashboard1.png)
-![Dashboard](screenshots/dashboard2.png)
-![Comparison View](screenshots/comparison1.png)
-![Comparison View](screenshots/comparison2.png)
-![Comparison View](screenshots/comparison3.png)
+screenshots/dashboard1.png
+screenshots/dashboard2.png
+screenshots/comparison1.png
+screenshots/comparison2.png
+screenshots/comparison3.png
