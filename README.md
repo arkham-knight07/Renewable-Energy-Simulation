@@ -1,11 +1,24 @@
-# Renewable-Energy-Simulation
+# Renewable Energy Simulation
+
 An interactive dashboard for comparing different renewable energy sources. Visualize, compare, and analyze energy data with modern charts and a user-friendly interface.
 
-## Features
+-## Features
 - Compare multiple renewable energy sources (solar, wind, hydro, etc.)
 - Visual charts and statistics using Recharts
 - Adjustable parameters for each energy source
 - Responsive and modern UI
+
+
+## Screenshots
+
+### Dashboard Views
+![Dashboard 1](Screenshots/dashboard1.png)
+![Dashboard 2](Screenshots/dashboard2.png)
+
+### Comparison Views
+![Comparison 1](Screenshots/comparison1.png)
+![Comparison 2](Screenshots/comparison2.png)
+![Comparison 3](Screenshots/comparison3.png)
 
 ## Getting Started
 
@@ -34,10 +47,3 @@ You can deploy this app for free using platforms like Vercel, Netlify, or GitHub
 
 ## License
 This project is licensed under the MIT License.
-## Screenshots
-
-screenshots/dashboard1.png
-screenshots/dashboard2.png
-screenshots/comparison1.png
-screenshots/comparison2.png
-screenshots/comparison3.png
