@@ -1,0 +1,22 @@
+{
+  "name": "energy-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive Energy Sources Comparison Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.8.0",
+    "lucide-react": "^0.263.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}

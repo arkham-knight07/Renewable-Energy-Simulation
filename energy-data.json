@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Geothermal Energy",
+    "efficiency": 45,
+    "watts": 1350,
+    "cost": 55,
+    "environmental": 88,
+    "parameters": {
+      "depth": 2000,
+      "temperature": 150
+    }
+  }
+]
